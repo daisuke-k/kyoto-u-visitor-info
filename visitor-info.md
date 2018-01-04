@@ -3,10 +3,9 @@
 
 See [maps on Kyoto University Website](http://www.kyoto-u.ac.jp/en/access/yoshida)
 
-## Public Transport
-### To Kyoto Station
+## Public Transport To Kyoto Station
 #### Via KIX (Kansai International Airport)
-KIX is the closest airport that have direct flights from foreign airports including North America and Europe as well as Asia.
+[KIX](https://www.kansai-airport.or.jp/en/) is the closest airport that have direct flights from foreign airports including North America and Europe as well as Asia.
 
 There are three options to get to Kyoto Station.
 
@@ -40,7 +39,7 @@ Cost: One way 4,200 JPY, Round Trip 8,200 JPY
 More Info: [Yasaka Taxi](http://www.yasaka.jp/english/shuttle/index.html), [MK Taxi](http://www.mk-group.co.jp/english/shuttle_kyoto.html)
 
 #### Via ITM (Osaka Itami International Airport)
-Although this airport includes "international" in its name, ITM have only domestic flights. Usually foreign travelers use ITM via Tokyo/Haneda (HND) or Tokyo/Narita (NRT).
+Although this airport includes "international" in its name, [ITM](https://www.osaka-airport.co.jp/en/) have only domestic flights. Usually foreign travelers use ITM via Tokyo/Haneda (HND) or Tokyo/Narita (NRT).
 
 There are mainly two options to get to Kyoto Station. Trains are available but travelers need to change trains several times.
 
@@ -59,3 +58,5 @@ MK Taxi operate shared taxi service between Kyoto and ITM. Pre-booking is requir
 Cost: One way 2,900 JPY, Round Trip 5,700 JPY
 
 More Info: [MK Taxi](http://www.mk-group.co.jp/english/shuttle_kyoto.html)
+
+##
