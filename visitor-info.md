@@ -86,7 +86,7 @@ Taxi costs around 2,000 JPY for one way.
 There are lots of hotels near Kyoto Station. The folowings are examples located near the Karasuma entrance.
 
 - [Kyoto Tower Hotel](https://www.keihanhotels-resorts.co.jp/tower_hotel/en/)
-- [Hotel New Hankyu Kyoto](Hotel New Hankyu Kyoto)
+- [Hotel New Hankyu Kyoto](http://www-a.global.hankyu-hotel.com/new-hankyu-kyoto/)
 - [Hotel Granvia Kyoto](http://www.granviakyoto.com/) inside Kyoto Station Building
 - [Hotel Hokke Club Kyoto](https://www.hokke.co.jp/english/kyoto/)
 
