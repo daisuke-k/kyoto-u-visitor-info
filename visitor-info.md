@@ -82,6 +82,14 @@ The following bus routes depart from bus terminal at Karasuma entrance of Kyoto 
 
 Taxi costs around 2,000 JPY for one way.
 
+#### Hotels
+There are lots of hotels near Kyoto Station. The folowings are examples located near the Karasuma entrance.
+
+- [Kyoto Tower Hotel](https://www.keihanhotels-resorts.co.jp/tower_hotel/en/)
+- [Hotel New Hankyu Kyoto](Hotel New Hankyu Kyoto)
+- [Hotel Granvia Kyoto](http://www.granviakyoto.com/) inside Kyoto Station Building
+- [Hotel Hokke Club Kyoto](https://www.hokke.co.jp/english/kyoto/)
+
 ### Shijo Karasuma to Karasuma Oike
 Shijo Karasuma to Karasuma Oike area is located in the downtown of Kyoto, and you can find lots of hotels, restaurants, bars and shops around there.
 
@@ -103,6 +111,16 @@ Taxi costs around 1,500 JPY.
 
 Alternatively, you can walk to Kawaramachi area (10 min by walk from Karasuma area) and take the buses.
 
+#### Hotels
+There are lots of hotels in Shijo Karasuma and Karasuma Oike area. The followings are example.
+
+- [Karasuma Kyoto Hotel](http://karasuma.kyotohotel.co.jp/english/)
+- [Hotel Monteley Kyoto](https://www.hotelmonterey.co.jp/en/kyoto/)
+- [Daiwa Roynet Hotel Kyoto-Shijokarasuma](http://www.daiwaroynethotelkyotoshijokarasuma.com/en-gb/)
+- [Mitsui Garden Hotel Kyoto Sanjo](https://www.gardenhotels.co.jp/eng/kyoto-sanjo/)
+- [Toyoko Inn Kyoto Shijo-Karasuma](https://www.toyoko-inn.com/eng/search/detail/00053)
+- [Hotel Check In Shijokarasuma](http://www.checkin.co.jp/shijo-karasuma/english/information.html)
+
 ### Shijo Kawaramachi/Sanjo Kawaramachi
 Shijo Kawaramachi and Sanjo Kawaramachi area is also located in the downtown of Kyoto, and you can find lots of hotels, restaurants, bars and shops around there. In addition, Gion (the most famous geisha district) is within the walking distance.
 
@@ -123,3 +141,13 @@ Kyoto City Bus is convenient for accessing to Kyoto University.
 - Kyoto City Bus Route 201 from Shijo Kawaramachi bus stop E: The Route 201 stops Kumano Jinja-mae (Kumano-Jinja Shrine), Konoedori, Kyodai Seimon-mae (Kyoto University), and Hyakumanben on Higashioji St.
 
 Taxi costs up to around 1,500 JPY.
+
+#### Hotels
+There are lots of hotels in Sanjo Kawaramachi area. The followings are example.
+
+- [UNIZO INN KYoto Kawaramachi Shijo](http://www.unizo-hotel.co.jp/en/inn-kyoto.k/)
+- [Kyoto Royal Park Hotel](https://www.rph-the.co.jp/kyoto/en/)
+- [Hotel Gran Ms Kyoto](http://granms.jp/en/)
+- [Kyoto Hotel Okura](http://okura.kyotohotel.co.jp/english/)
+
+There are less hotels in Shijo Kawaramachi or many hotels are not faced with main streets.
