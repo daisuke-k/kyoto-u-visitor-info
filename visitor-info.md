@@ -172,3 +172,8 @@ The following are examples of Visitor SIM. Most of them (except Softbank) are MV
 - [Prepaid SIM for JAPAN by NTT communications](http://www.ntt.com/personal/services/mobile/one/visitor/en.html)
 - [Prepaid SIM for Travel by Softbank](https://www.softbank.jp/en/mobile/special/prepaid-sim-for-travel/en/)
 - [VISITOR SIM by Bmobile](http://www.bmobile.ne.jp/english/)
+
+### Wi-Fi
+Kyoto City provides [Kyoto Wi-Fi](http://kanko.city.kyoto.lg.jp/wifi/en/) in stations, bus stops, sightseeing spots, etc. Kyoto Wi-Fi requires all users to authenticate them by SNS (Facebook, Twitter, Google) or e-mail.
+
+[Eduroam](https://www.eduroam.org/) is available in most of Kyoto University campuses, including conference hall, meeting rooms, lecture rooms, and cafeteria. No Kyoto Wi-Fi is provided at Kyoto University campuses. If you have no eduroam account but need Internet access, faculty and staff members that host your stay can provide you a guest account. In this case, please contact your host members at Kyoto University.
