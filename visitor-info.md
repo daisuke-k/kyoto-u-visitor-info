@@ -145,9 +145,30 @@ Taxi costs up to around 1,500 JPY.
 #### Hotels
 There are lots of hotels in Sanjo Kawaramachi area. The followings are example.
 
-- [UNIZO INN KYoto Kawaramachi Shijo](http://www.unizo-hotel.co.jp/en/inn-kyoto.k/)
+- [UNIZO INN Kyoto Kawaramachi Shijo](http://www.unizo-hotel.co.jp/en/inn-kyoto.k/)
 - [Kyoto Royal Park Hotel](https://www.rph-the.co.jp/kyoto/en/)
 - [Hotel Gran Ms Kyoto](http://granms.jp/en/)
 - [Kyoto Hotel Okura](http://okura.kyotohotel.co.jp/english/)
 
 There are less hotels in Shijo Kawaramachi or many hotels are not faced with main streets.
+
+## Communications
+### SIM
+Many companies sell prepaid SIM cards for visitors.
+
+In Kyoto Station area, you can purchase prepaid SIM at bus/subway information offices, BIC CAMERA in Kyoto Station Building, or vending machines near coin-operated lockers in Pedestrian Walkway between Karasuma entrance and Hachijoguchi entrance.
+
+In Shijo Kawaramachi, there is a SIM vending machine in front of Takashimaya.
+
+You can also purchase SIM cards at KIX. There are several SIM vending machines and mobile Wi-Fi counters (some of counters also sells visitor SIM) at the arrival hall. [More Info](http://www.getaroundjapan.jp/node/16523).
+
+It is a little difficult to get visitor SIM at ITM because ITM is a domestic airport.
+
+The following are examples of Visitor SIM. Most of them (except Softbank) are MVNO of NTT docomo, so service areas are almost the same.
+
+- [JAPAN TRAVEL SIM powered by IIJmio](https://t.iijmio.jp/)
+- [Prepadi LTE SIM by So-net](http://www.so-net.ne.jp/prepaid/en/index.html)
+- [Wi-Ho! Prepaid SIM](https://sim.telecomsquare.co.jp/)
+- [Prepaid SIM for JAPAN by NTT communications](http://www.ntt.com/personal/services/mobile/one/visitor/en.html)
+- [Prepaid SIM for Travel by Softbank](https://www.softbank.jp/en/mobile/special/prepaid-sim-for-travel/en/)
+- [VISITOR SIM by Bmobile](http://www.bmobile.ne.jp/english/)
