@@ -3,7 +3,7 @@
 
 See [maps on Kyoto University Website](http://www.kyoto-u.ac.jp/en/access/yoshida)
 
-## Public Transport To Kyoto Station
+## Public Transport From Airports To Kyoto Station
 #### Via KIX (Kansai International Airport)
 [KIX](https://www.kansai-airport.or.jp/en/) is the closest airport that have direct flights from foreign airports including North America and Europe as well as Asia.
 
